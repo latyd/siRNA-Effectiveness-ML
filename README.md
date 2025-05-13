@@ -1,5 +1,5 @@
 # siRNA-Effectiveness-ML
-This project performs binary classification on a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/livtoft/sirna-activity/data) using Logistic Regression and Random Forest classifiers.
+This project performs binary classification on an [siRNA Activity](https://www.kaggle.com/datasets/livtoft/sirna-activity/data) dataset obtained from Kaggle using Logistic Regression and Random Forest classifiers.
 ## Requirements
 Install the required Python packages using pip:
 
